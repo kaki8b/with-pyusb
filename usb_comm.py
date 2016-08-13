@@ -1,4 +1,4 @@
-#
+# seguimos o material do seguinte linkin https://developer.mbed.org/cookbook/USBHID-bindings-
 #Simple example on how to send and receive data to the Mbed over USB (on Linux) using pyUSB 1.0
 #
 import os
